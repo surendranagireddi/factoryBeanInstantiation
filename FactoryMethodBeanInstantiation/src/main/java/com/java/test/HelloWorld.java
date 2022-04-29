@@ -1,0 +1,8 @@
+package com.java.test;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("Hello wolrd welcome");
+	}
+}
